@@ -1,0 +1,36 @@
+body{
+     width: 100%;
+     /* border:1px solid black ; */
+     text-align: center;
+     margin: auto;
+     clear: both;
+
+}.form{
+    clear: both;
+    border: 1px solid black;
+    text-align: center;
+    float: bottom;
+    width: 40%;
+    margin: auto;
+    float: bottom;
+    background-color: cadetblue;
+    height: 100%;
+}
+.form0{
+     clear: both;
+     padding-top: 20px;
+}
+.hazz{
+     background-color: pink;
+     height: 800px;
+     clear: both;
+     text-align: center;
+     padding: 40px;
+}
+#box{
+     background-color: violet;
+}
+.form2{
+     padding-top: 20%;
+}
+
